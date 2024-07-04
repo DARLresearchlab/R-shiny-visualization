@@ -1,0 +1,13 @@
+date1,is_core_developer,is_user_bot,Year,num_activities,num_dist_commits,num_dist_commitcomments,num_actors_pushevents,num_actors_pusheventscomment,num_dist_pullreqopened,num_dist_pullreqclosed,num_dist_pullreqAll,num_dist_pullreqcomments,num_actors_pullreq,num_actors_pullreqcomment,num_actors_pullreq_opened,num_actors_pullreq_closed,num_dist_issuesopened,num_dist_issuesclosed,num_dist_issuesAll,num_dist_issuecomments,num_actors_issues,num_actors_issuescomment,num_actors_allevents,num_actors_issues_opened,num_actors_issues_closed,num_forks_event,num_actors_forks,num_watch_event,num_actors_watch,num_releases,CryptoID,Ratio_F2C,Ratio_C2C+PR,Ratio_F+W2C+PR
+1/1/14,1,0,2014,24,18,0,3,0,1,1,2,0,2,0,1,1,0,0,0,0,0,0,4,0,0,2,1,0,0,0,ethereum,0.1111111111111111,0.9473684210526315,0.10526315789473684
+1/1/15,0,0,2015,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,4,0,0,0,0,2,2,0,ethereum,,,inf
+1/1/15,1,0,2015,72,4,0,4,0,8,2,10,0,10,0,8,2,6,8,14,28,10,16,34,6,6,2,2,8,8,0,ethereum,0.5,0.6666666666666666,1.6666666666666667
+1/1/16,1,0,2016,29,0,0,0,0,2,0,2,9,2,5,2,0,3,2,5,9,4,8,20,3,1,4,4,0,0,0,ethereum,inf,,inf
+1/1/16,1,1,2016,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,ethereum,,,
+1/1/17,1,0,2017,18,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3,6,2,6,15,2,1,1,1,8,8,0,ethereum,inf,,inf
+1/1/18,0,0,2018,151,0,0,0,0,1,0,1,0,1,0,1,0,2,3,5,32,5,26,142,2,3,20,20,93,92,0,ethereum,inf,,inf
+1/1/18,1,0,2018,83,3,1,3,1,5,1,6,0,5,0,5,1,1,2,2,11,2,8,63,1,2,9,9,43,43,0,ethereum,3,0.75,13
+1/1/19,0,0,2019,42,0,0,0,0,1,1,2,2,2,2,1,1,2,0,2,7,2,6,38,2,0,5,5,23,23,0,ethereum,inf,0,28
+1/1/19,0,1,2019,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,ethereum,,,
+1/1/19,1,0,2019,109,1,0,1,0,4,1,5,13,5,4,4,1,3,1,4,28,3,11,48,2,1,10,10,28,27,0,ethereum,10,0.5,19
+1/1/19,1,1,2019,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,ethereum,,,
