@@ -1,8 +1,8 @@
-# install.packages('rsconnect')
+# install.packages('rsconnect') ### <- install package for R web app
 library(rsconnect)
-rsconnect::setAccountInfo(name='digitalassetresearchlab', token='51095528F4C94E6E70E5979A8EDE961D', secret='0gx7AfIQP3VkDtYwR24gTz3wxDf+iqciIPiMraVG')
-# rsconnect::configureApp("OSS-Tracer-App", size="xlarge") ## Not allowed for free version
+rsconnect::setAccountInfo(name='ACCOUNTNAME', token='TOKEN', secret='SECRET')
 
+### install any packages from below if missing with install.packages('packagename') 
 # library(tidyverse)
 library(shiny)
 library(readr)
@@ -13,13 +13,10 @@ library(scales)
 library(plotly)
 library(shinydashboard)
 
-## Uncomment when running on a local machine; comment when deploying - otherwise gives error status 1
-# setwd('/Users/mariiapetryk/App')
+## Uncomment the next line when running on a local machine; comment when deploying - otherwise gives error status 1
+# setwd('PATH') ##<- set path to working directory on your local machine
 
-# df <- read_csv("Data_AllYears_Merged.csv")
-# df <- read_csv("Data_AllYears_Merged_with core and bot_v02.csv")
-# df <- read_csv("Data_AllYears_Merged_with core and bot_v03_aggr.csv")
-df <- read_csv("Data_AllYears_Merged_aggr_all_coins.csv")
+df <- read_csv("FileName") ##<-- filename with aggregated data for multiple projects
 
 df$date1 <- as.Date(df$date1, format="%m/%d/%y")
 choices_communities=unique(df$CryptoID)
